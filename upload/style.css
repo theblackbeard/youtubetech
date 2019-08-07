@@ -1,0 +1,45 @@
+h1{
+   font-size:20px;
+   text-align: center;
+   padding:10px 0;
+   margin:0;
+   text-transform: uppercase;     
+}
+
+h2{
+    font-size:20px;
+    text-align: center;
+    padding:10px 0 0 0;
+    margin:0;
+    text-transform: uppercase; 
+    color:gray;
+}
+
+h2 a{
+    color:red;
+    font-weight: bolder;    
+}
+h3{
+    margin: 0;
+    padding:0;
+    text-align: center;
+    font-size:12px;
+    font-weight: bolder;
+}
+.photo{
+    padding: 10px;
+    background: rgba(0,0,255,.2);
+    color:blue;
+    cursor: pointer;
+
+}
+
+#loading{
+    border: 0px solid black;
+    margin: 0;
+    text-align: center;
+}
+
+#loading img {
+    width: 80px;
+}
